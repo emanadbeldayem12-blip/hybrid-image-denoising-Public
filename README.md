@@ -1,1 +1,1 @@
-# hybrid-image-denoising-Public
+# hybrid-image-denoising
